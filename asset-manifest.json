@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-forms-2/static/css/main.7a056e58.chunk.css",
+    "main.js": "/ra-forms-2/static/js/main.73128b49.chunk.js",
+    "main.js.map": "/ra-forms-2/static/js/main.73128b49.chunk.js.map",
+    "runtime-main.js": "/ra-forms-2/static/js/runtime-main.ddf48ebc.js",
+    "runtime-main.js.map": "/ra-forms-2/static/js/runtime-main.ddf48ebc.js.map",
+    "static/js/2.dc7c3631.chunk.js": "/ra-forms-2/static/js/2.dc7c3631.chunk.js",
+    "static/js/2.dc7c3631.chunk.js.map": "/ra-forms-2/static/js/2.dc7c3631.chunk.js.map",
+    "static/js/3.2d3d9e23.chunk.js": "/ra-forms-2/static/js/3.2d3d9e23.chunk.js",
+    "static/js/3.2d3d9e23.chunk.js.map": "/ra-forms-2/static/js/3.2d3d9e23.chunk.js.map",
+    "index.html": "/ra-forms-2/index.html",
+    "static/css/main.7a056e58.chunk.css.map": "/ra-forms-2/static/css/main.7a056e58.chunk.css.map",
+    "static/js/2.dc7c3631.chunk.js.LICENSE.txt": "/ra-forms-2/static/js/2.dc7c3631.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddf48ebc.js",
+    "static/js/2.dc7c3631.chunk.js",
+    "static/css/main.7a056e58.chunk.css",
+    "static/js/main.73128b49.chunk.js"
+  ]
+}
